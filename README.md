@@ -1,6 +1,6 @@
 - @fangnengwuyou
 - Communication Engineering
-- E-mail：fangnengwuyou@gmail.edu.cn
+- E-mail：fangnengwuyou@gmail.com
 
 <!---
 fangnengwuyou/fangnengwuyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
